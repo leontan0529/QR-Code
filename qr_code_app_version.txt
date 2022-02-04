@@ -1,0 +1,13 @@
+#V1.1 as of 270122:
+# - Receive link input from user to convert to QR Code 
+# - Save QR Code in JPEG format and current directory
+
+#V1.1 as of 280122:
+# - Include QR Code Reader
+# - Allow User to input JPEG from directory
+
+#(Current) V1.2 as of 280122:
+# - Create introduction page to prompt user for app use
+# - Allow user to scan and read QR code from camera
+# - Save QR Code in PNG format for better web quality 
+
